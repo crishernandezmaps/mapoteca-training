@@ -102,7 +102,7 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 5em; }
+  font-size: 3em; }
 
 .reveal h2 {
   color: #FF1300;
@@ -113,7 +113,7 @@ body {
   font-size: 1.3em; }
 
 .reveal h4 {
-  text-transform: lowercase;
+  /*text-transform: lowercase;*/
   font-size: 1em; }
 
 .reveal h1 {
@@ -387,7 +387,7 @@ img > #big {
 }
 
 #back-grey {
-  background: rgba(0,0,0,0.5);
+  background: rgba(0,0,0,0.9);
   padding: 5%;
 }
 
